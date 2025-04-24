@@ -14,15 +14,13 @@ copies of this license document.
 
    Being a dick includes - but is not limited to - the following instances:
 
-    a. Outright copyright infringement - Don't just copy this and change the name.
-   
-    b. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.
-   
-    c. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.
+    1. Outright copyright infringement - Don't just copy this and change the name.
+    2. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.
+    3. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.
 
-3. If you become rich through modifications, related works/services, or supporting the original work,
+2. If you become rich through modifications, related works/services, or supporting the original work,
 share the love. Only a dick would make loads off this work and not buy the original work's
 creator(s) a pint.
 
-4. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes
+3. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes
 you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back.
